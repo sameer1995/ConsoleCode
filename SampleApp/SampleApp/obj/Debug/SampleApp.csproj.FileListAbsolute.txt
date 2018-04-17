@@ -1,1 +1,6 @@
 E:\VSTS files\SampleApp\SampleApp\bin\Debug\SampleApp.exe.config
+E:\VSTS files\SampleApp\SampleApp\bin\Debug\SampleApp.exe
+E:\VSTS files\SampleApp\SampleApp\bin\Debug\SampleApp.pdb
+E:\VSTS files\SampleApp\SampleApp\obj\Debug\SampleApp.csprojResolveAssemblyReference.cache
+E:\VSTS files\SampleApp\SampleApp\obj\Debug\SampleApp.exe
+E:\VSTS files\SampleApp\SampleApp\obj\Debug\SampleApp.pdb

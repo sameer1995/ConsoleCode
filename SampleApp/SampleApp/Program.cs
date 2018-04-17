@@ -11,6 +11,9 @@ namespace SampleApp
         static void Main(string[] args)
         {
             Console.WriteLine("this is for uploading into a git repository ");
+            Console.WriteLine("this is first change in the code ");
+            Console.WriteLine("this is a code change update");
+         
         }
     }
 }
