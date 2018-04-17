@@ -1,0 +1,1 @@
+E:\VSTS files\SampleApp\SampleApp\bin\Debug\SampleApp.exe.config
